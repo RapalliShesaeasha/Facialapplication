@@ -4,8 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "postinstall": "npm rebuild canvas"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
